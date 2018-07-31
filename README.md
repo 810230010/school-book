@@ -1,8 +1,6 @@
-# school-book
 校园二手图书交易系统
 ---
 # 技术栈
----
 ## 前端:
 - Vue.js
 - Vue.js框架:iView
@@ -14,3 +12,8 @@
 - Nosql数据库:Redis、MongoDB
 - Mycat(可选)
 - 健康检查:Spring-actuator
+- 权限管理:Apache Shiro
+
+## 运维
+- 持续集成:Jenkins
+- 容器:Docker
